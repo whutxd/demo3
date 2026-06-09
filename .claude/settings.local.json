@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(streamlit run *)",
+      "Bash(curl -s \"http://web.ifzq.gtimg.cn/appstock/app/fqkline/get?param=sz002196,day,,90,qfq\")",
+      "Bash(python -m json.tool)",
+      "Bash(curl *)",
+      "Bash(python -c \"import mplfinance; help\\(mplfinance.plot\\)\")",
+      "Bash(python *)"
+    ]
+  }
+}
