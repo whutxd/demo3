@@ -1,3 +1,5 @@
+# 已经 commit 的文件，再添加或修改 .gitignore 是不会自动生效的；.gitignore 只对未跟踪（untracked）的文件起作用
+
 # 忽略文件夹
 # /.claude/
 
